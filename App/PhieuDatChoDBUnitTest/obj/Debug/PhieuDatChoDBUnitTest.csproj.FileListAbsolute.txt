@@ -1,0 +1,14 @@
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\bin\Debug\PhieuDatChoDBUnitTest.dll
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\bin\Debug\PhieuDatChoDBUnitTest.pdb
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\bin\Debug\QuanLyBanVeXe.exe
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\bin\Debug\QuanLyBanVeXe.pdb
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\obj\Debug\PhieuDatChoDBUnitTest.csprojResolveAssemblyReference.cache
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\obj\Debug\PhieuDatChoDBUnitTest.dll
+E:\Study\Cong nghe phan mem\Project\App\PhieuDatChoDBUnitTest\obj\Debug\PhieuDatChoDBUnitTest.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\bin\Debug\PhieuDatChoDBUnitTest.dll
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\bin\Debug\PhieuDatChoDBUnitTest.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\bin\Debug\QuanLyBanVeXe.exe
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\bin\Debug\QuanLyBanVeXe.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\obj\Debug\PhieuDatChoDBUnitTest.csprojResolveAssemblyReference.cache
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\obj\Debug\PhieuDatChoDBUnitTest.dll
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\PhieuDatChoDBUnitTest\obj\Debug\PhieuDatChoDBUnitTest.pdb

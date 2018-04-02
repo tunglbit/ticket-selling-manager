@@ -1,0 +1,7 @@
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\bin\Debug\QuanLyBanVeXe.Tests.dll
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\bin\Debug\QuanLyBanVeXe.Tests.pdb
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\bin\Debug\QuanLyBanVeXe.exe
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\bin\Debug\QuanLyBanVeXe.pdb
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\obj\Debug\QuanLyBanVeXe.Tests.csprojResolveAssemblyReference.cache
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\obj\Debug\QuanLyBanVeXe.Tests.dll
+E:\Study\Cong nghe phan mem\Project\App\QuanLyBanVeXe.Tests\obj\Debug\QuanLyBanVeXe.Tests.pdb

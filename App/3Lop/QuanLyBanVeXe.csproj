@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F0BFA5B1-8817-4D12-98E2-F9DA27B45AEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_QuanLyBanVeXe</RootNamespace>
+    <AssemblyName>QuanLyBanVeXe</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChiTietChuyenDi.cs" />
+    <Compile Include="ChiTietChuyenDiDB.cs" />
+    <Compile Include="DoanhThuThang.cs" />
+    <Compile Include="DonGia.cs" />
+    <Compile Include="DonGiaDB.cs" />
+    <Compile Include="FormBanVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBanVe.Designer.cs">
+      <DependentUpon>FormBanVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDangNhap.Designer.cs" />
+    <Compile Include="FormDatVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDatVe.Designer.cs">
+      <DependentUpon>FormDatVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHanhKhach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHanhKhach.Designer.cs">
+      <DependentUpon>FormHanhKhach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhanLich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhanLich.Designer.cs">
+      <DependentUpon>FormNhanLich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQuyDinhDonGiaVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuyDinhDonGiaVe.Designer.cs">
+      <DependentUpon>FormQuyDinhDonGiaVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQuyDinhHanDatVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuyDinhHanDatVe.Designer.cs">
+      <DependentUpon>FormQuyDinhHanDatVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTraCuuChuyenDi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTraCuuChuyenDi.Designer.cs">
+      <DependentUpon>FormTraCuuChuyenDi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormXemBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormXemBaoCao.Designer.cs">
+      <DependentUpon>FormXemBaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralFormNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralFormNV.Designer.cs">
+      <DependentUpon>GeneralFormNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralFormQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralFormQL.Designer.cs">
+      <DependentUpon>GeneralFormQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HanhKhach.cs" />
+    <Compile Include="HanhKhachDB.cs" />
+    <Compile Include="PhieuDatCho.cs" />
+    <Compile Include="PhieuDatChoDB.cs" />
+    <Compile Include="ThamSo.cs" />
+    <Compile Include="ThamSoDB.cs" />
+    <Compile Include="ChuyenDi.cs" />
+    <Compile Include="ChuyenDiDB.cs" />
+    <Compile Include="FormQuanLyChuyenDi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuanLyChuyenDi.Designer.cs">
+      <DependentUpon>FormQuanLyChuyenDi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQuanLyTuyenDi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuanLyTuyenDi.Designer.cs">
+      <DependentUpon>FormQuanLyTuyenDi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQuyDinhChuyenDi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuyDinhChuyenDi.Designer.cs">
+      <DependentUpon>FormQuyDinhChuyenDi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DbManager.cs" />
+    <Compile Include="FormQuanLyBenXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuanLyBenXe.Designer.cs">
+      <DependentUpon>FormQuanLyBenXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BenXe.cs" />
+    <Compile Include="TuyenDi.cs" />
+    <Compile Include="BenXeDB.cs" />
+    <Compile Include="TuyenDiDB.cs" />
+    <Compile Include="VeXe.cs" />
+    <Compile Include="VeXeDB.cs" />
+    <EmbeddedResource Include="FormBanVe.resx">
+      <DependentUpon>FormBanVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDangNhap.resx" />
+    <EmbeddedResource Include="FormDatVe.resx">
+      <DependentUpon>FormDatVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHanhKhach.resx">
+      <DependentUpon>FormHanhKhach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanLich.resx">
+      <DependentUpon>FormNhanLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuanLyChuyenDi.resx">
+      <DependentUpon>FormQuanLyChuyenDi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuanLyTuyenDi.resx">
+      <DependentUpon>FormQuanLyTuyenDi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuanLyBenXe.resx">
+      <DependentUpon>FormQuanLyBenXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuyDinhChuyenDi.resx">
+      <DependentUpon>FormQuyDinhChuyenDi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuyDinhDonGiaVe.resx">
+      <DependentUpon>FormQuyDinhDonGiaVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuyDinhHanDatVe.resx">
+      <DependentUpon>FormQuyDinhHanDatVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTraCuuChuyenDi.resx">
+      <DependentUpon>FormTraCuuChuyenDi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormXemBaoCao.resx">
+      <DependentUpon>FormXemBaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralFormNV.resx">
+      <DependentUpon>GeneralFormNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralFormQL.resx">
+      <DependentUpon>GeneralFormQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\bin\Debug\DonGiaDBUnitTest.dll
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\bin\Debug\DonGiaDBUnitTest.pdb
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\bin\Debug\QuanLyBanVeXe.exe
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\bin\Debug\QuanLyBanVeXe.pdb
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\obj\Debug\DonGiaDBUnitTest.csprojResolveAssemblyReference.cache
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\obj\Debug\DonGiaDBUnitTest.dll
+E:\Study\Cong nghe phan mem\Project\App\DonGiaDBUnitTest\obj\Debug\DonGiaDBUnitTest.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\bin\Debug\DonGiaDBUnitTest.dll
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\bin\Debug\DonGiaDBUnitTest.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\bin\Debug\QuanLyBanVeXe.exe
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\bin\Debug\QuanLyBanVeXe.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\obj\Debug\DonGiaDBUnitTest.csprojResolveAssemblyReference.cache
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\obj\Debug\DonGiaDBUnitTest.dll
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\DonGiaDBUnitTest\obj\Debug\DonGiaDBUnitTest.pdb

@@ -1,0 +1,14 @@
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\ChiTietChuyenDiDBUnitTest.dll
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\ChiTietChuyenDiDBUnitTest.pdb
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\QuanLyBanVeXe.exe
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\QuanLyBanVeXe.pdb
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\obj\Debug\ChiTietChuyenDiDBUnitTest.csprojResolveAssemblyReference.cache
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\obj\Debug\ChiTietChuyenDiDBUnitTest.dll
+E:\Study\Cong nghe phan mem\Project\App\ChiTietChuyenDiDBUnitTest\obj\Debug\ChiTietChuyenDiDBUnitTest.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\ChiTietChuyenDiDBUnitTest.dll
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\ChiTietChuyenDiDBUnitTest.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\QuanLyBanVeXe.exe
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\bin\Debug\QuanLyBanVeXe.pdb
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\obj\Debug\ChiTietChuyenDiDBUnitTest.csprojResolveAssemblyReference.cache
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\obj\Debug\ChiTietChuyenDiDBUnitTest.dll
+D:\Film\Anime\Learn\Temp 5\@ss\CNPM\SVN\project\App\ChiTietChuyenDiDBUnitTest\obj\Debug\ChiTietChuyenDiDBUnitTest.pdb

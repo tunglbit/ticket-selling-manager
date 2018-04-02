@@ -1,0 +1,39 @@
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\bin\Debug\3Lop.exe.config
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\bin\Debug\3Lop.exe
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\bin\Debug\3Lop.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\obj\Debug\_3Lop.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\obj\Debug\3Lop.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\obj\Debug\3Lop.exe
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\obj\Debug\3Lop.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\obj\Debug\_3Lop.Form1.resources
+C:\Users\admin\documents\visual studio 2013\Projects\WindowsFormsApplication2\3Lop\obj\Debug\3Lop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.exe.config
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.exe
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.pdb
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\_3Lop.Form1.resources
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\_3Lop.Properties.Resources.resources
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.exe
+C:\Users\Admin\Downloads\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.pdb
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.exe.config
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.exe
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.pdb
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.exe
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.pdb
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.csprojResolveAssemblyReference.cache
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\_3Lop.Form1.resources
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\_3Lop.Properties.Resources.resources
+C:\Users\admin.admini-PC\Downloads\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.csproj.GenerateResource.Cache
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.exe.config
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.exe
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.pdb
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.exe
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\bin\Debug\3Lop.pdb
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.csprojResolveAssemblyReference.cache
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\obj\Debug\_3Lop.Form1.resources
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\obj\Debug\_3Lop.Properties.Resources.resources
+E:\Study\Database System\Mo Hinh 3 Lop\3Lop\obj\Debug\3Lop.csproj.GenerateResource.Cache
+E:\Study\Cong nghe phan mem\App\3Lop\bin\Debug\3Lop.exe.config
+E:\Study\Cong nghe phan mem\App\3Lop\obj\Debug\3Lop.exe
+E:\Study\Cong nghe phan mem\App\3Lop\obj\Debug\3Lop.pdb
